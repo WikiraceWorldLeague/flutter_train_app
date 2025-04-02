@@ -1,16 +1,9 @@
-# flutter_train_app
+기차 예매 앱 과제를 제출합니다.
 
-A new Flutter project.
+출발역을 우선적으로 선택하지 않으면 도착역을 선택할 수 없게 돼 있습니다.
+출발역과 도착역이 같은 역일 수 없다는 예외처리는 못 했습니다.
 
-## Getting Started
+아직 Navigator.push나 MaterialPageRoute 등에 대한 이해가 부족하다고 생각합니다.
+LLM 툴의 도움을 많이 받았습니다.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+하드카피로 인쇄하여 펼쳐 놓고 반복적으로 연구하려고 합니다.
